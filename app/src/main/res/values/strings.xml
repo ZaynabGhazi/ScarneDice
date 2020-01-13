@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="header_def">Your score: 0 Computer score:0</string>
+    <string name="button1">ROLL</string>
+    <string name="button2">HOLD</string>
+    <string name="button3">RESET</string>
+
+</resources>
